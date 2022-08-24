@@ -1,4 +1,4 @@
-# David Alejandro Gutierrez Muñoz
+# David Alejandro Gutiérrez Muñoz
 ## SURA Formación
 ###### PYTHON
 Proyecto con ejemplos de condicionales en PYTHON
